@@ -1,2 +1,2 @@
 # pandas_matplot_seaborn
-pandas，matiplot and seaborn
+pandas，matplot and seaborn
